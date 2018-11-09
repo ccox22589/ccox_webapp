@@ -1,20 +1,20 @@
 # ccox_webapp
-##Laura Sigley Photography
+Laura Sigley Photography
 
-##Description
-**This is a site for a photographer. It shows her different sessions and tells about her as well. **
+Description
+This is a site for a photographer. It shows her different sessions and tells about her as well. 
 
-##Installation Instructions
-**URL: www.flower.centralus.cloudapp.azure.com/index.html**
+Installation Instructions
+URL: www.flower.centralus.cloudapp.azure.com/index.html
 
-##Usage
-**This site should be used to preview the photographer's work. It also allows you to contact her for bookings and pricing.**
+Usage
+This site should be used to preview the photographer's work. It also allows you to contact her for bookings and pricing.
 
-##Credits
-**Author:Cassie Cox**
+Credits
+Author:Cassie Cox
 
-##Licensing
-**                    GNU GENERAL PUBLIC LICENSE
+Licensing
+                  GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -687,4 +687,4 @@ into proprietary programs.  If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
-<https://www.gnu.org/licenses/why-not-lgpl.html>.**
+<https://www.gnu.org/licenses/why-not-lgpl.html>.
