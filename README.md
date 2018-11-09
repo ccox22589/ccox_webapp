@@ -1,19 +1,19 @@
 # ccox_webapp
 Laura Sigley Photography
 
-Description
+Description:
 This is a site for a photographer. It shows her different sessions and tells about her as well. 
 
-Installation Instructions
+Installation Instructions:
 URL: www.flower.centralus.cloudapp.azure.com/index.html
 
-Usage
+Usage:
 This site should be used to preview the photographer's work. It also allows you to contact her for bookings and pricing.
 
-Credits
+Credits:
 Author:Cassie Cox
 
-Licensing
+Licensing:
                   GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
